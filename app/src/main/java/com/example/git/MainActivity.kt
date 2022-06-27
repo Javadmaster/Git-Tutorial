@@ -8,5 +8,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         print("how are you")
+
+        print("hello")
+        print("Experimental")
     }
+
 }
