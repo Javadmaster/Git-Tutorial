@@ -1,0 +1,29 @@
+
+git init: to make a repository for git
+
+git add . : to add everything to git repository
+
+git commit -m "your message here": to commit every changes so far
+
+git revert: to revert any commit back to the last commit
+
+git log: to see information about commits
+
+git log --all: to see information about all commit and stash
+
+git stash: to save local changes temporary when you want to checkout
+
+git stash list: to get a list of all stashes
+
+git stash apply: to get the stash back
+
+git checkout: to change the current commit or branch to any other one
+
+git branch "name of the branch here": to make a new branch
+
+git branch -a to see all the branches
+
+git branch (type the name of the branch here without parenthesis): to change the current branch
+
+
+
