@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         print("how are you")
         print("merge")
         print("new item")
+        print("new message")
     }
 
 }
