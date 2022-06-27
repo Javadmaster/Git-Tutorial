@@ -1,0 +1,22 @@
+hold shift and right click and select open shell here
+
+ls: to see everything inside the current directory
+
+cd (type the name of the folder here without parenthesis): to change the directory
+
+cd ..: to navigate one step back
+
+use tab button on the keyboard to auto complete when your typing
+
+go to github and make a new repository
+take the http url and in the shell type: git remote add origin (the address of the repository you already copy)
+to connect the repository to shell
+
+echo "javad how are you" > greeting.txt: to make a new text file with the fallowing message
+
+git push origin <- (just for the first tim)
+
+git pull origin master <- (you have to specify the branch name and origin just for the first time)
+
+
+
