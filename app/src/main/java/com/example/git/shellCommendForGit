@@ -18,5 +18,11 @@ git push origin <- (just for the first tim)
 
 git pull origin master <- (you have to specify the branch name and origin just for the first time)
 
+search credential manager on windows search bar and select widows credential and remove the github
+to remove the default github account
 
+go to setting in the repository in github and select setting -> collaborator -> add collaborator
+and go to branches -> add rule and add the rule
 
+if you are a collaborator you can make a new branch and add the new branch to the github and send
+pull request to merge your changes
